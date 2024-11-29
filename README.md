@@ -24,12 +24,18 @@ This project uses **NLP**, **OCR**, and **fine-tuning** to create a comprehensiv
 **Description:**  
 This project leverages knowledge graphs to revolutionize project management. By integrating data from multiple sources, it enables users to visualize relationships, track dependencies, and optimize workflows in real time. The system is designed for scalability and adaptability, making it suitable for projects of any size or complexity.
 
+**Key Technologies:**  
+- **GNN/GCN:** To model complex relationships and dependencies in project data, providing deep insights into task interconnections and resource allocation.  
+- **Llama Model:** For advanced natural language understanding and generation, enabling intelligent query processing and contextual suggestions for project managers.  
+- **RAG (Retrieval-Augmented Generation):** Combines retrieval techniques with generative AI to provide accurate, context-aware answers by pulling relevant project-related information dynamically.
+
 **Key Features:**  
-- Semantic relationships between tasks, resources, and timelines.  
-- Real-time dependency tracking.  
-- Advanced visualization for actionable insights.  
+- Semantic representation of tasks, resources, and timelines using knowledge graphs.  
+- Real-time dependency tracking with GNN/GCN for optimized project workflows.  
+- Enhanced natural language interaction powered by the Llama model.  
+- Retrieval-based intelligence via RAG for actionable, context-aware insights.  
 - Scalable architecture for dynamic project management needs.  
-- Integration with popular project management tools.  
+- Integration with popular project management tools.   
 
 **Repository Link:**  
 [A Knowledge Graph System for Project Management](https://github.com/YOUR_USERNAME/knowledge-graph-system-for-project-management)
