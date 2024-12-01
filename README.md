@@ -16,7 +16,7 @@ This project uses **NLP**, **OCR**, and **fine-tuning** to create a comprehensiv
 - MongoDB database integration for managing penalties.  
 
 **Repository Link:**  
-[Allocating Penalties Faster Than Ever](https://github.com/YOUR_USERNAME/allocating-penalties-faster-than-ever)
+[Allocating Penalties Faster Than Ever](https://github.com/amineBagh/SPN.git)
 
 ---
 
@@ -38,7 +38,7 @@ This project leverages knowledge graphs to revolutionize project management. By 
 - Integration with popular project management tools.   
 
 **Repository Link:**  
-[A Knowledge Graph System for Project Management](https://github.com/YOUR_USERNAME/knowledge-graph-system-for-project-management)
+[A Knowledge Graph System for Project Management](https://github.com/amineBagh/TenStep_Project.git)
 
 ---
 
